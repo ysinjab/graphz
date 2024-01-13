@@ -42,7 +42,7 @@ Notes
 
 * The module supports only undirected graphs.
 
-* The module doesn't storing node data.
+* The module doesn't support storing node data.
 
 * The module doesn't support deleting edges.
 
