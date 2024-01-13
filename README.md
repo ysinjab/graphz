@@ -54,4 +54,4 @@ Issue reports, pull and feature requests are welcome.
 License
 ---
 
-AGPLv3 - see [LICENSE](LICENSE)
+MIT License - see [LICENSE](LICENSE)
